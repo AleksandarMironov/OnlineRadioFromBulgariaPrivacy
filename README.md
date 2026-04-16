@@ -65,7 +65,6 @@ AdMob may use your device’s Advertising ID to serve ads. Depending on your dev
 You can control ad personalization by:
 
 * Adjusting your Android device settings (e.g. “Opt out of Ads Personalization”)
-* Managing consent options if presented within the App (for users in the European Economic Area)
 
 ---
 
